@@ -1,0 +1,10 @@
+{
+  "name": "parallel-agent-queue",
+  "description": "Use when coordinating several AI coding/research agents (Codex, Claude Code, Grok, Gemini CLIs or API runs) on one machine \u2014 keeping them busy from a job queue with safe limits, status files and usage planning.",
+  "version": "1.0.0",
+  "author": {
+    "name": "The Ask Why Company",
+    "url": "https://github.com/theaskwhy"
+  },
+  "license": "MIT"
+}
